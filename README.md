@@ -2,6 +2,8 @@
 
 ## Members: Ben Lamkin, David Johnson, Kabao Xiong and Renata Sant'Anna
 
+#### Guidelines
+
 **Project Proposal**
 
 Before you start writing any code, your group should outline the scope and purpose of your project. This helps provide direction and prevent scope creep.
