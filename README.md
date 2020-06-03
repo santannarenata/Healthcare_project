@@ -1,6 +1,6 @@
 # Healthcare Price Dispersion
 
-##  Group project 01 - Members: Ben Lamkin, David Johnson, Kabao Xiong and Renata Sant'Anna
+##  Group project 01 - Members: Renata Sant'Anna, Ben Lamkin, David Johnson and Kabao Xiong 
 
 ### Goal
 
