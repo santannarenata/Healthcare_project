@@ -14,5 +14,4 @@ Also, we would like to analize if there was a correlation between volume (number
 
 - Tools: 
         - Python - Libraries: Pandas, Matplotlib, Numpy
-        
         - Json
