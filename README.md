@@ -13,7 +13,5 @@ Also, we would like to analize if there was a correlation between volume (number
 
 - Data: CMS - https://data.cms.gov/ (public available and updated periodically) - 196,325 observations
 
-- Tools: 
- 
-Python - Libraries: Pandas, Matplotlib, Numpy
-Json
+- Tools: Python - Libraries: Pandas, Matplotlib, Numpy and Json
+         
